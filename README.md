@@ -1,6 +1,7 @@
 ### Hello friends 👋
 
-- 🔭 I’m currently working on an Ionic Vue.js mobile fitness workout app!
-- 🌱 I’m currently learning ASP.NET and C#
+- 🔭 I’m currently working on a Full Stack Drinking Game App with Ionic, Vue, ASP.NET, Microsoft SQL, Docker and Azure!
+- 🌱 I’m currently learning ASP.NET and Docker.
 
-- 📧 If you have any questions or just want to connect hit me up on LinkedIn: https://www.linkedin.com/in/elias-fiedler-2479ba224/
+- 📧 If you have any questions or just want to connect hit me up on LinkedIn:
+-  https://www.linkedin.com/in/elias-fiedler-2479ba224/
