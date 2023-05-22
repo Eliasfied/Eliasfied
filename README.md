@@ -7,5 +7,5 @@
 -  https://www.linkedin.com/in/elias-fiedler-2479ba224/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasfied&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasfied&show_icons=true&theme=synthwave)
 
