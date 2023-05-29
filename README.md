@@ -6,6 +6,3 @@
 - 📧 If you have any questions or just want to connect hit me up on LinkedIn:
 -  https://www.linkedin.com/in/elias-fiedler-2479ba224/
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliasfied&show_icons=true&theme=synthwave)
-
