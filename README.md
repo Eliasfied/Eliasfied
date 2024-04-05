@@ -1,6 +1,6 @@
 ### Hello friends 👋
 
-- 🔭 I’m currently working on a Full Stack Drinking Game App with Ionic, Vue, ASP.NET, Microsoft SQL, Docker and Azure!
+- 🔭 I’m currently working on a Full Stack ShoppingList App with Ionic, ASP.NET and Docker!
 - 🌱 I’m currently learning ASP.NET and Docker.
 
 - 📧 If you have any questions or just want to connect hit me up on LinkedIn:
