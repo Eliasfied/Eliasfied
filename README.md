@@ -1,6 +1,6 @@
 ### Hello friends 👋
 
-- 🔭 I’m currently working on a Full Stack ShoppingList App with Ionic, ASP.NET and Docker!
+- 🔭 I’m currently working on a Finance Planning App with Angular, Ionic, Capacitor and FireBase!
 - 🌱 I’m currently learning ASP.NET and Docker.
 
 - 📧 If you have any questions or just want to connect hit me up on LinkedIn:
